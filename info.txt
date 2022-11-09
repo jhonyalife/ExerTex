@@ -64,6 +64,22 @@ git log - Para verificar
 # Adicionar alterações no arquivo 
 
 git add nomeDoArquivo
+git add
+
+---------------------------------------------------------------------------------------------------------
+# desfazer e navegar entre diferentes commits.
+
+Através do comando git reset é possível desfazer e navegar entre diferentes commits.
+Comandos reset:
+
+reset:
+Head > Commit
+index > Stage
+working Tree > Diretório
+
+–hard: desfaz o commit e o stage, alterando o diretório.
+–mixed: desfaz o commit e o stage, sem fazer alterações no diretório.
+–soft: desfaz o commit, matendo o stage e não alterando o diretório.
 
 ---------------------------------------------------------------------------------------------------------
 Github 
