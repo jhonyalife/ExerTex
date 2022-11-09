@@ -1,0 +1,70 @@
+# Benefícios do uso de um sistema de Controle de Versão
+
+- Versionamento 
+
+Problema sobre o desenvolvimento individual 
+
+[] falta de capacidade de retornar as versões anteriores.
+[] Versão não monitorada
+[] Longo periodo em busca de solução
+
+Problema relacionado a trabalhar com equipe 
+
+[] Conflitos quando mais de um programador está trabalhando no mesmo arquivos
+[] 'Bloqueio' do arquivo no desenvolvimento individual
+[] Refação desnecessária
+
+Solução -  Monitoramento das alterações dos arquivos 
+
+
+---------------------------------------------------------------------------------------------------------
+
+# Git
+
+**Para instalar no  Ubunut: sudo apt-get install git**
+
+[] Diferente porque tira uma 'foto' instantâneo do status do arquivo
+[] Armazena uma referência do arquivo
+[] Se um arquivo não teve alterações não registra
+[] Fluxo de momentos do projeto
+[] Maioria das ações são locais
+[] Integridades, todas as ações são registrados.
+[] String de 40 posições que usa hexadecimal (0-9 a-f).
+[] Armazena dados 
+[] Repositorio local 
+
+---------------------------------------------------------------------------------------------------------
+
+Coisas principais a serem lembradas:
+
+    [] Diretório de trabalho (Pasta na sua máquina virtual)
+    [] Repositorio git
+    [] .git : Banco de dados compactado com as alterações dos arquivos
+    []  Stating: Área de preparação
+    []  Compromisso: Commit
+
+Modifica o arquivo --> Adicionar ao Staging --> comprometer o arquivo: Commit
+
+---------------------------------------------------------------------------------------------------------
+# Configuração Inicial para usar o git
+
+Informações de sua identidade
+config --global user.name
+config --global user.email
+config --global core.editor
+config --list
+---------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------
+Github 
+
+[] Repositorio remoto 
+
+
+
