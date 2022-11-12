@@ -16,6 +16,12 @@ Problema relacionado a trabalhar com equipe
 
 Solução -  Monitoramento das alterações dos arquivos 
 
+---------------------------------------------------------------------------------------------------------
+
+Github 
+
+[] Repositorio remoto 
+
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -66,6 +72,10 @@ git log - Para verificar
 git add nomeDoArquivo
 git add
 
+# Desfazer o add
+
+git restore -staged "nomedoarquivo"
+
 ---------------------------------------------------------------------------------------------------------
 # desfazer e navegar entre diferentes commits.
 
@@ -82,9 +92,10 @@ working Tree > Diretório
 –soft: desfaz o commit, matendo o stage e não alterando o diretório.
 
 ---------------------------------------------------------------------------------------------------------
-Github 
 
-[] Repositorio remoto 
+# Para ignorar um arquivo
 
+-Criar um arquivo chamado ".gitignore"
+-Colocar o nome do arquivo que deseja ser excluido dentro do ".gitignore"
 
 
