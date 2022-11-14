@@ -131,3 +131,8 @@ working Tree > Diretório
 - Para organizar a visualização utilizamos o comando git log -1 --stat --pretty=oneline
 - Para organizar ainda melhor a visualização utilizamos o comando git log -3 --stat --pretty=format:"%an - %ar: %s"
 
+---------------------------------------------------------------------------------------------------------
+
+# Modificar nome do arquivo 
+
+- Para modificamos o nome do arquivo, basta digitar git mv "nome-do-arquvio-antigo" "nome-do-arquivo-novo"
