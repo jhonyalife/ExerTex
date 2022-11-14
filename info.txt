@@ -99,3 +99,19 @@ working Tree > Diretório
 -Colocar o nome do arquivo que deseja ser excluido dentro do ".gitignore"
 
 
+---------------------------------------------------------------------------------------------------------
+# Para comparar dois commits
+-O comando git diff é capaz de trazer as diferenças entre o último commit e a versão atual dos arquivos.
+-É possível visualizar as diferenças entre dois commits diferentes ao utilizar suas chaves após o comando git diff.
+-Para salvar as mudanças em um novo arquivo, basta usar o comando git diff > nome-do-arquivo.patch.
+-Pode-se adicionar mudanças com arquivos .patch a partir do comando git apply nome-do-arquivo.patch.
+
+---------------------------------------------------------------------------------------------------------
+
+# Criar um novo galho - branch 
+
+- Através do comando git branch "nome-da-branch" criamos uma nova branch
+
+# Trocar de branch - checkout
+
+- Através do comando git checkout "nome-da-branch"
