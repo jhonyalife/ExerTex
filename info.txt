@@ -101,6 +101,7 @@ working Tree > Diretório
 
 ---------------------------------------------------------------------------------------------------------
 # Para comparar dois commits
+
 -O comando git diff é capaz de trazer as diferenças entre o último commit e a versão atual dos arquivos.
 -É possível visualizar as diferenças entre dois commits diferentes ao utilizar suas chaves após o comando git diff.
 -Para salvar as mudanças em um novo arquivo, basta usar o comando git diff > nome-do-arquivo.patch.
@@ -115,3 +116,5 @@ working Tree > Diretório
 # Trocar de branch - checkout
 
 - Através do comando git checkout "nome-da-branch"
+
+# Comparar diferenças entre as branchs
