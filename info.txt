@@ -113,8 +113,17 @@ working Tree > Diretório
 
 - Através do comando git branch "nome-da-branch" criamos uma nova branch
 
+
 # Trocar de branch - checkout
 
 - Através do comando git checkout "nome-da-branch"
 
+
 # Comparar diferenças entre as branchs
+
+---------------------------------------------------------------------------------------------------------
+
+# Acessa os logs de forma rápida
+
+- Usamos o comando git log -1 
+- Para usamos obersavamos as modificações utilizamos o comando git log -p -1
