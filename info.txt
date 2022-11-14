@@ -136,3 +136,7 @@ working Tree > Diretório
 # Modificar nome do arquivo 
 
 - Para modificamos o nome do arquivo, basta digitar git mv "nome-do-arquvio-antigo" "nome-do-arquivo-novo"
+
+---------------------------------------------------------------------------------------------------------
+
+# Remover arquivo 
