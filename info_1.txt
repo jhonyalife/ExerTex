@@ -126,4 +126,8 @@ working Tree > Diretório
 # Acessa os logs de forma rápida
 
 - Usamos o comando git log -1 
-- Para usamos obersavamos as modificações utilizamos o comando git log -p -1
+- Para obersavamos as modificações utilizamos o comando git log -p -1
+- Para verificarmos a estatistica utilizamos o comando git log -1 --stat
+- Para organizar a visualização utilizamos o comando git log -1 --stat --pretty=oneline
+- Para organizar ainda melhor a visualização utilizamos o comando git log -3 --stat --pretty=format:"%an - %ar: %s"
+
