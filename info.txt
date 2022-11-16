@@ -113,11 +113,9 @@ working Tree > Diretório
 
 - Através do comando git branch "nome-da-branch" criamos uma nova branch
 
-
 # Trocar de branch - checkout
 
 - Através do comando git checkout "nome-da-branch"
-
 
 # Comparar diferenças entre as branchs
 
@@ -140,3 +138,9 @@ working Tree > Diretório
 ---------------------------------------------------------------------------------------------------------
 
 # Remover arquivo 
+
+- Para remover arquivo, basta usar git rm "nome-do-arquivo"
+
+# Criar arquivo 
+
+- Basta usar o > "nome do arquivo"
