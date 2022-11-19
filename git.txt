@@ -135,6 +135,9 @@ Comandos reset:
 
     -git branch -r
 
+# Fazer checkout diretamente no branch remoto 
+
+    -git checkout origin/projeto_v2
 ---------------------------------------------------------------------------------------------------------
 # Acessa os logs de forma rápida
 
