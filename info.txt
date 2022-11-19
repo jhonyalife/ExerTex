@@ -2,13 +2,13 @@
 
 - Versionamento 
 
-Problema sobre o desenvolvimento individual 
+## Problema sobre o desenvolvimento individual 
 
 [] falta de capacidade de retornar as versões anteriores.
 [] Versão não monitorada
 [] Longo periodo em busca de solução
 
-Problema relacionado a trabalhar com equipe 
+## Problema relacionado a trabalhar com equipe 
 
 [] Conflitos quando mais de um programador está trabalhando no mesmo arquivos
 [] 'Bloqueio' do arquivo no desenvolvimento individual
