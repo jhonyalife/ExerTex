@@ -166,6 +166,6 @@ Comandos reset:
 
     -git remote add origin <link do github>
 
-    # Subir as alterações e substituir com os diferentes
+# Subir as alterações e substituir com os diferentes
 
     - git push -f origin main
