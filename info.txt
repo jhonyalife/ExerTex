@@ -131,7 +131,9 @@ git branch -m "main"
 
 - Através do comando git checkout "nome-da-branch"
 
-# Comparar diferenças entre as branchs
+# Deletar branch no remoto 
+
+git push --delete "nome-da-branch"
 
 ---------------------------------------------------------------------------------------------------------
 
