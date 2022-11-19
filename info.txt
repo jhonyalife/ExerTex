@@ -123,6 +123,10 @@ working Tree > Diretório
 
 - Através do comando git branch "nome-da-branch" criamos uma nova branch
 
+# Alterar nome da branch 
+
+git branch -m "main"
+
 # Trocar de branch - checkout
 
 - Através do comando git checkout "nome-da-branch"
@@ -134,6 +138,7 @@ working Tree > Diretório
 # Acessa os logs de forma rápida
 
 - Usamos o comando git log -1 
+- git log --graph
 - Para obersavamos as modificações utilizamos o comando git log -p -1
 - Para verificarmos a estatistica utilizamos o comando git log -1 --stat
 - Para organizar a visualização utilizamos o comando git log -1 --stat --pretty=oneline
