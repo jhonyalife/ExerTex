@@ -120,15 +120,20 @@ Comandos reset:
 
 # Alterar nome da branch 
 
-    -git branch -m "main"
-
-# Trocar de branch - checkout ou 
+    -git branch -m "nome-da-nova-branch"
+   
+# Trocar de branch - checkout ou switch
 
     - Através do comando git checkout "nome-da-branch"
+     -git switch "nome-da-branch"
 
 # Deletar branch no remoto 
 
     -git push --delete "nome-da-branch"
+
+# Conferir branch no remoto 
+
+    -git branch -r
 
 ---------------------------------------------------------------------------------------------------------
 # Acessa os logs de forma rápida
