@@ -166,3 +166,8 @@ git branch -m "main"
 - Verifica a pasta oculta .git (comando = ls -la)
 - Deletar a pasta .git (comando= rm -rf .git)
 
+---------------------------------------------------------------------------------------------------------
+
+# Conectar o repositorio local com o repositorio remoto - GIT REMOTE
+
+-git remote add origin <link do github>
