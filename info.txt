@@ -171,3 +171,7 @@ git branch -m "main"
 # Conectar o repositorio local com o repositorio remoto - GIT REMOTE
 
 -git remote add origin <link do github>
+
+# Subir as alterações e substituir com os diferentes
+
+- git push -f origin main
