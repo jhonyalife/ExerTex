@@ -17,14 +17,11 @@
 Solução -  Monitoramento das alterações dos arquivos 
 
 ---------------------------------------------------------------------------------------------------------
-
 Github 
 
 [] Repositorio remoto 
 
-
 ---------------------------------------------------------------------------------------------------------
-
 # Git
 
 **Para instalar no  Ubunut: sudo apt-get install git**
@@ -40,21 +37,19 @@ Github
 [] Repositorio local 
 
 ---------------------------------------------------------------------------------------------------------
-
 Coisas principais a serem lembradas:
 
     [] Diretório de trabalho (Pasta na sua máquina virtual)
     [] Repositorio git
     [] .git : Banco de dados compactado com as alterações dos arquivos
-    []  Stating: Área de preparação
-    []  Compromisso: Commit
+    [] Stating: Área de preparação
+    [] Compromisso: Commit
 
 Modifica o arquivo --> Adicionar ao Staging --> comprometer o arquivo: Commit
-
 ---------------------------------------------------------------------------------------------------------
 # Configuração Inicial para usar o git
 
-Informações de sua identidade
+Informações de sua identidade:
 config --global user.name
 config --global user.email
 config --global core.editor
@@ -69,6 +64,7 @@ git log - Para verificar
 # Para arquivos que já estejam modificados:
 
 -git commit -am "mensagem"
+
 --------------------------------------------------------------------------------------------------------
 # Adicionar alterações no arquivo 
 
@@ -90,12 +86,13 @@ git restore -staged "nomedoarquivo"
 # desfazer e navegar entre diferentes commits.
 
 Através do comando git reset é possível desfazer e navegar entre diferentes commits.
+
 Comandos reset:
 
-reset:
-Head > Commit
-index > Stage
-working Tree > Diretório
+-reset:
+    Head > Commit
+    index > Stage
+    working Tree > Diretório
 
 –hard: desfaz o commit e o stage, alterando o diretório.
 –mixed: desfaz o commit e o stage, sem fazer alterações no diretório.
@@ -108,7 +105,6 @@ working Tree > Diretório
 -Criar um arquivo chamado ".gitignore"
 -Colocar o nome do arquivo que deseja ser excluido dentro do ".gitignore"
 
-
 ---------------------------------------------------------------------------------------------------------
 # Para comparar dois commits
 
@@ -118,62 +114,58 @@ working Tree > Diretório
 -Pode-se adicionar mudanças com arquivos .patch a partir do comando git apply nome-do-arquivo.patch.
 
 ---------------------------------------------------------------------------------------------------------
-
 # Criar um novo galho - branch 
 
 - Através do comando git branch "nome-da-branch" criamos uma nova branch
 
 # Alterar nome da branch 
 
-git branch -m "main"
+    -git branch -m "main"
 
-# Trocar de branch - checkout
+# Trocar de branch - checkout ou 
 
-- Através do comando git checkout "nome-da-branch"
+    - Através do comando git checkout "nome-da-branch"
 
 # Deletar branch no remoto 
 
-git push --delete "nome-da-branch"
+    -git push --delete "nome-da-branch"
 
 ---------------------------------------------------------------------------------------------------------
-
 # Acessa os logs de forma rápida
 
-- Usamos o comando git log -1 
-- git log --graph
-- Para obersavamos as modificações utilizamos o comando git log -p -1
-- Para verificarmos a estatistica utilizamos o comando git log -1 --stat
-- Para organizar a visualização utilizamos o comando git log -1 --stat --pretty=oneline
-- Para organizar ainda melhor a visualização utilizamos o comando git log -3 --stat --pretty=format:"%an - %ar: %s"
+    - Usamos o comando git log -1 
+    - git log --graph
+    - Para obersavamos as modificações utilizamos o comando git log -p -1
+    - Para verificarmos a estatistica utilizamos o comando git log -1 --statz   
+    - Para organizar a visualização utilizamos o comando git log -1 --stat --pretty=oneline
+    - Para organizar ainda melhor a visualização utilizamos o comando git log -3 --stat --pretty=format:"%an - %ar: %s"
 
 ---------------------------------------------------------------------------------------------------------
-
 # Modificar nome do arquivo 
 
-- Para modificamos o nome do arquivo, basta digitar git mv "nome-do-arquvio-antigo" "nome-do-arquivo-novo"
+    - Para modificamos o nome do arquivo, basta digitar git mv "nome-do-arquvio-antigo" "nome-do-arquivo-novo"
 
 ---------------------------------------------------------------------------------------------------------
-
 # Remover arquivo 
 
-- Para remover arquivo, basta usar git rm "nome-do-arquivo"
+    - Para remover arquivo, basta usar git rm "nome-do-arquivo"
 
 # Criar arquivo 
 
-- Basta usar o > "nome do arquivo"
+    - Basta usar o > "nome do arquivo"
 
 ---------------------------------------------------------------------------------------------------------
 # Caso inicialize o git no local errado 
 
-- Verifica a pasta oculta .git (comando = ls -la)
-- Deletar a pasta .git (comando= rm -rf .git)
+    - Verifica a pasta oculta .git (comando = ls -la)
+    - Deletar a pasta .git (comando= rm -rf .git)
 
 ---------------------------------------------------------------------------------------------------------
 
 # Conectar o repositorio local com o repositorio remoto - GIT REMOTE
 
--git remote add origin <link do github>
+    -git remote add origin <link do github>
 
 # Subir as alterações e substituir com os diferentes
 
-- git push -f origin main
+    - git push -f origin main
