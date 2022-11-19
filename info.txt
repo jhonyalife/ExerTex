@@ -66,15 +66,25 @@ config --list
 git commit -m "mensagem"
 git log - Para verificar
 
+# Para arquivos que já estejam modificados:
+
+-git commit -am "mensagem"
 --------------------------------------------------------------------------------------------------------
 # Adicionar alterações no arquivo 
 
 git add nomeDoArquivo
 git add
 
+# Adicionar todos os arquivos na stage
+
+git add .
+
 # Desfazer o add
 
+git rm --cached "nome-do-arquivo" 
+
 git restore -staged "nomedoarquivo"
+
 
 ---------------------------------------------------------------------------------------------------------
 # desfazer e navegar entre diferentes commits.
@@ -144,3 +154,10 @@ working Tree > Diretório
 # Criar arquivo 
 
 - Basta usar o > "nome do arquivo"
+
+---------------------------------------------------------------------------------------------------------
+# Caso inicialize o git no local errado 
+
+- Verifica a pasta oculta .git (comando = ls -la)
+- Deletar a pasta .git (comando= rm -rf .git)
+
