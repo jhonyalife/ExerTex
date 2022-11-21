@@ -177,3 +177,12 @@ Comandos reset:
 # Subir as alterações e substituir com os diferentes
 
     - git push -f origin main
+
+# Subir as alterações já estando na branch remota 
+
+    - git push origin HEAD:'nome-da-branch'
+
+---------------------------------------------------------------------------------------------------------
+
+# Fork - é uma cópia do repositorio, mas no github
+# Clone - é o clone do seu repositorio remoto, mas sendo local 
