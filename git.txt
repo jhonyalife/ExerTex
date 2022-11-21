@@ -186,3 +186,13 @@ Comandos reset:
 
 # Fork - é uma cópia do repositorio, mas no github
 # Clone - é o clone do seu repositorio remoto, mas sendo local 
+
+---------------------------------------------------------------------------------------------------------
+
+# Git flow
+
+[] master(main) : projeto 
+        [] hotfix : correções imediatas, por conta de falhas críticas : temporária versão 1.0.0-1 Tag
+    [] dev (desenvolvimento) 
+        [] feature (funcionalidades) : temporária 
+        [] release (lançamento) :  temporária versão 1.0.0 Tag
