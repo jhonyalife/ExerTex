@@ -131,6 +131,10 @@ Comandos reset:
 
     -git push --delete "nome-da-branch"
 
+# Deletar branch local 
+
+    - git branch -d "nome-da-branch"
+    
 # Conferir branch no remoto 
 
     -git branch -r

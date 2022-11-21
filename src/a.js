@@ -1,4 +1,1 @@
-function name(params) {
-    a+b
-    return "função despedida"
-}
+// Jogo par e impar 
