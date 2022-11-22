@@ -213,3 +213,8 @@ Comandos reset:
         [] release (lançamento) :  temporária versão 1.0.0 Tag
 
 A release vai mesclar apenas a feature
+
+---------------------------------------------------------------------------------------------------------
+
+# Erro crítico
+
