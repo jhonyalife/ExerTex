@@ -116,8 +116,12 @@ Comandos reset:
 ---------------------------------------------------------------------------------------------------------
 # Criar um novo galho - branch 
 
-- Através do comando git branch "nome-da-branch" criamos uma nova branch
+    - Através do comando git branch "nome-da-branch" criamos uma nova branch
 
+# Criar um novo galho, mas já entrando nele 
+
+    - git checkout -b "nome-da-branch-nova"
+    
 # Alterar nome da branch 
 
     -git branch -m "nome-da-nova-branch"
@@ -185,6 +189,13 @@ Comandos reset:
 # Subir as alterações já estando na branch remota 
 
     - git push origin HEAD:'nome-da-branch'
+---------------------------------------------------------------------------------------------------------
+
+# Mesclar as alterações via CLI 
+
+    Já estando na branch que deseja ser mesclada
+        -git merge "nome-da-branch-que-tem-as-alterações"
+
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -200,3 +211,5 @@ Comandos reset:
     [] dev (desenvolvimento) 
         [] feature (funcionalidades) : temporária 
         [] release (lançamento) :  temporária versão 1.0.0 Tag
+
+A release vai mesclar apenas a feature
