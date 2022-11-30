@@ -139,7 +139,7 @@ Um processo de desenvolvimento ágil e flexível.
 
     3 papeis – 5 eventos – 3 artefatos
 
-**3. PÁPEIS:***
+***3. PÁPEIS:***
 
 - Product
 - Scrum Master
@@ -147,10 +147,80 @@ Um processo de desenvolvimento ágil e flexível.
 
 ***5. EVENTOS:***
 
+- Sprint
 - Sprint Planning
-- Daily Scrum
+- Daily Scrum 
 - Sprint Review
 - Retrospective
 
 ***3. ARTEFATOS:***
 
+- Product Backlog
+- Sprint Backlog
+- Product Increment
+
+---
+
+# Metologia Ágil - Product Backlog
+
+    Hipoteses -> Experiẽncia -> Validação -> Aprendizagem 
+
+
+**Qual é a necessidade do cliente?**
+
+- Dores > Problemas a serem resolvidos 
+
+**Como vamos definir as prioridades?**
+
+**Solução:** Elimina uma determinada DOR sincronizada com as expectativas do cliente. 
+  
+### Sprint Backlog
+
+Lista definida durante uma reunião chamada **Sprint Pĺanning Meeting** na qual a equipe decide o que vai ser realizado em determinado **Sprint**
+
+### Feature (recurso)
+
+- Valor comercial objetivo
+- Ter dados para estimativa de esforço
+- Ser justificavel
+- Capaz de caber em um incremento
+- Ser testável
+
+Cada parte de uma funcionalidade que oferece valor comercial.
+
+Que atende a uma necessidade das partes interessadas.
+
+---
+
+# Metologia Ágil - Sprint Planning 
+
+Reunião de planejamento de um Sprint (São chamadas de cerimônias e são demoradas)
+- Deve ser mais simples e objetivas 
+
+---
+
+# Metodologia Ágil - Pilares do Scrum
+
+        Transparência > Inspeção > Adaptação
+
+- **Transparência:**
+
+Todas as partes interessadas devem ser **transparente** sobre o trabalho que realizam.
+
+Em termos populares "**Deixar às caras**", ou seja comunicar-se com eficiiẽncia e a todo tempo.
+
+- **Inspeção:**
+
+Inspecionar **regularmente** todos os artefatos: pessoas, fluxos de trabalho, backlogs e incrementos do produto.
+
+Pode ser **conduzida por todos os membros** da equipe.
+
+    Estamos melhores do que estavamos ontem ?   
+
+- **Adaptação:**
+
+A equipe Scrum **deve se adaptar e reagir as mudanças** nas necessidades do cliente e do mercado.
+
+Ocorre a qualquer momento 
+
+Os **insights surgem nas dailys** onde os desenvolvedores podem discutir pequuenas melhorias entre si.
