@@ -224,3 +224,82 @@ A equipe Scrum **deve se adaptar e reagir as mudanças** nas necessidades do cli
 Ocorre a qualquer momento 
 
 Os **insights surgem nas dailys** onde os desenvolvedores podem discutir pequuenas melhorias entre si.
+
+---
+
+# Metodologia Ágil - O ciclo de desenvolvimento do Scrum
+
+![imagem1](./src/img/imagem1.png)
+
+
+## Sprint 
+
+- Ciclo de desenvolvimento
+- 'Incremento pronto para lançar' 
+- Evento Container 
+- Prover propósito e foco ao time 
+- Possibilita a inspeção (o que ?) (como?)
+
+Contém todos os demais eventos 
+
+- Sprint Planning 
+- Daily 
+- Sprint Review
+- Sprint Retrospective
+
+A duração de uma Sprint tem em média entre 7 e 30 dias
+
+**Sprint significa "corrida."**
+
+Representa o desenvolvimento do **incremento** em um software ou sistema a ser entregue em determinado prazo.
+
+**Obs.:** Por que o prazo é tão curto ?
+
+Evitar problemas como: 
+
+- Mudança de objetivo 
+- Atraso no feedback do cliente 
+- Sensação de "Falta de progresso"
+
+**Obs.:** Posso alterar o prazo de uma Sprint?
+
+- A resposta é não. Você pode alterar somente entre uma e outra, mas nunca em seu decorrer.
+
+**Obs.:** Mas por que se alteraria o prazo?
+
+- Tempo insuficiente para o incremento
+- Feriados, Freezing ou Férias 
+- Condição de mercado 
+- **Indecisão sobre tecnologia**
+
+### O que é Freeze Period?
+
+Período de congelamento onde os desenvolvedores não codificam alterações do sistemas 
+
+Geralmente datas próximas a feriados, como natal, ano novo, dia das mães, afins.
+
+**Obs.:** Se o time terminar a sprint antes do prazo ?
+
+- Continuar na Sprint 
+- Buscar bugs, fazer ajustes
+- Refatorar o código 
+
+**Obs.:** Se o time terminar a sprint depois da data?
+
+- Encerrar a Sprint 
+- Discutir na Sprint Retropesctive 
+- Entender os motivos 
+- Melhorar planejamento 
+
+**Obs.:** Se a Sprint se torna obsoleta? 
+
+- Decisão do PO
+
+***Causas:***
+
+- Mudança de mercado 
+- Tecnologia ou direção da organização 
+
+## Incremento 
+
+Parte do software ou sistema em estado de **"Pronto"**; potencialmente utilizável, construido durante a Sprint.

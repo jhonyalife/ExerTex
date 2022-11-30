@@ -217,7 +217,7 @@ Através do comando git reset é possível desfazer e navegar entre diferentes c
 
 ## Clone - é o clone do seu repositorio remoto, mas sendo local
 
----------------------------------------------------------------------------------------------------------
+---
 
 # Git flow
 
