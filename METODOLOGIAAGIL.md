@@ -272,6 +272,8 @@ Evitar problemas como:
 - Condição de mercado 
 - **Indecisão sobre tecnologia**
 
+---
+
 ### O que é Freeze Period?
 
 Período de congelamento onde os desenvolvedores não codificam alterações do sistemas 
@@ -303,3 +305,106 @@ Geralmente datas próximas a feriados, como natal, ano novo, dia das mães, afin
 ## Incremento 
 
 Parte do software ou sistema em estado de **"Pronto"**; potencialmente utilizável, construido durante a Sprint.
+
+---
+
+# Metodologia Ágil - Como funciona uma Daily?
+
+    Reunião diária que começa precisamente no horário marcado. 
+
+Obs: Não é uma reunião de cobrança!
+
+    Garante que todos do time estejam a par de cada progresso feito durante o projeto.
+
+    O encontro tem duração determinada (Time-Box) e dura **aproximadamente** de 15 a 20 minutos 
+
+### **Facilitar o entedimento sobre as atividades**
+
+    Quem condiz as daily são os desenvolvedores.
+
+Obs: Reuniões longas tornam-se cansativas e improdutivas
+
+    Os demais participantes são ouvintes. 
+
+    Acontece no mesmo local e mesma hora todos os dias. 
+
+Obs: Não é preciso esperar a próxima Daily para reportar um impedimento. 
+
+### Mas o que é um impedimento ?
+
+Exemplo: 
+
+- Permissão para acessar um recurso 
+- Renovar contrato de serviços 
+
+### E quem resolve um impedimento ?
+
+Impedimentos são resolvidos fora da daily com os envolvidos. 
+
+As daily são para apresentar pontos ou questionamentos sobre o que tá acontecendo na Sprint.
+
+---
+
+# Metodologia Ágil - Sprint Review
+
+É uma reunião que deseja produzir uma conversa entre a equipe e as partes interessadas sobre como melhorar o produto.
+
+PO aborda objetivos da Sprint e os Itens "Prontos"
+
+PO aproveita as lições aprendida durante a conversa.
+
+    Penúltimo evento da Sprint 
+
+**Obs: Inspeção do incremento e adaptação do Product Backlog**
+
+**Participação:**
+
+- Qualquer papel que tenha interesse ou influência 
+- Participação de partes externas
+
+Time descreve o que aconteceu de positivo na Sprint, bem como os impedimentos e suas soluções.
+
+Time faz uma demonstração do incremento "pronto para lançar"
+
+### Após a Sprint Review terminar:
+
+PO apresenta roadmap do produto, visão de metas e possíveis próximas entregas 
+
+### E se não há incremento para demonstrar?
+
+Dê transparência aos stakeholders sobre o trabalho desenvolvido.
+
+---
+
+# Metodologia Ágil - Sprint Retrospective 
+
+Rever os **erros** e **acertos** no sprint realizado.
+
+Parte super importante do processo, onde é possível aprender com os erros e tentar **aprimorar o produto**
+
+**Obs:** Só participam o Scrum Master e o time de desenvolvimento.
+
+**Fases:**
+
+1ª fase: Time levanta os pontos que influenciaram positivamente.
+
+2ª fase: Fatos que não foram bons e que merecem atenção.
+
+3ª fase: Trabalhar na construção de um plano de ação.
+
+### Sprint Retrospective 
+
+O que você fez realmente bem na última iteração?
+
+Conte algo que te deixa realmente feliz?
+
+Que coisa legal você fez para outra pessoa na última iteração?
+
+### Positivo e Verdadeiro 
+
+Sempre analisar na pespectiva de positivo e verdadeiro, tantos os erros como os acertos. 
+
+### Aprendizagem 
+
+![imagem2](./src/img/imagem2.png)
+![imagem3](./src/img/imagem3.png)
