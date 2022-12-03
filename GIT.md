@@ -141,6 +141,10 @@ Através do comando git reset é possível desfazer e navegar entre diferentes c
 - Através do comando git checkout "nome-da-branch"
 - git switch "nome-da-branch"
 
+## Criar e já entrar na branch local 
+
+- git switch -c "nome-da-branch"
+
 ## Deletar branch no remoto:
 
 - git push --delete "nome-da-branch"
