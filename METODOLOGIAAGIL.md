@@ -2,12 +2,12 @@
 
 ---
 
-### Principais papeis da metodologia ágil:
+### Principais papeis da metodologia ágil
 
 1. Scrum Master
 2. Product Owner
 3. Equipe de desenvolvimento
-   
+
 ### Recurso eficazes utilizados para criação de produtos:
 
 1. Comportamentos
@@ -38,6 +38,7 @@
 que sentem ser correto fazer.
 
 ***O que fazem, de diferente?***
+
 - Reavaliam planos
 - Comunicam-se diariamente
 - Produzem baixo volume de documentação
@@ -408,3 +409,109 @@ Sempre analisar na pespectiva de positivo e verdadeiro, tantos os erros como os 
 
 ![imagem2](./src/img/imagem2.png)
 ![imagem3](./src/img/imagem3.png)
+
+---
+
+# Metodologia Ágil - Backlog Refinement 
+
+## Backlog Refinement 
+
+###Principais pontos da aula:
+
+- O processo de refinamento acontece a todo momento
+- Acontece de forma isolada das demais iterações da sprint
+- Processo contínuo de responsabilidade do PO
+- Importante para um melhor entendimento,dimensionamento e ordenação das ações
+- Obtenção de um Backlog mais “limpo”, e melhoria das Sprints Plannings
+
+
+**Qual é a importância do refinamento?**
+
+- Falta de entendimento 
+- Falta de dimensionamento 
+- Falta de ordenação 
+  
+**Beneficios**
+
+- Backlog "limpo"
+- Sprint Planning 
+- Melhoria do entendimento geral 
+
+
+**Resultados**
+
+- Descobertas 
+- Adição de detalhes 
+- Divisão de itens 
+- Evita mal-entendidos
+- Evita riscos
+- Revisão de prioridade
+
+**Valores**
+
+- Valor Comercial (receita e lucro)
+- Valor de Eficiência (dinheiro e tempo)
+- Valor de Mercado(novos usuários)
+- Valor para o cliente (manter usuários)
+- Valor futuro (economia e segurança)
+
+**Epic**
+
+User Story muito grande ou que ainda não foi detalhada e que não pode ser convertida em um incremento 
+
+--- 
+# Metodologia Ágil - Kit de Ferramenta
+
+![imagem4](./src/img/imagem4.png)
+
+---
+
+# Metodologia Ágil - User Story Points 
+
+**Dimensionar Histórias:**
+
+        Estimular em horas 
+        Estimular no esforço 
+
+### Sequência Fibonacci
+
+Progressão númerica onde um número é o resultado dos números anteriores
+
+0,1,1,2,3,5,8,13,21,34,55,89,144
+
+---
+
+# Metodologia Ágil - Planing Onion
+
+Visão dos diferentes niveis de gerenciamento e planejamento do projeto 
+
+![imagem5](./src/img/imagem5.png)
+
+---
+
+# Metodologia Ágil - Produtividade
+
+
+###Principais pontos da aula:
+
+- Uma mente dispersa pode influenciar muito na sua produtividade, pois torna-se difícil de manter o foco.
+- É importante entender a diferença entre colaborar e fazer a tarefa de outra pessoa, para que você não acabe se sobrecarregando.
+- A técnica Pomodoro é interessante para manter o equilíbrio entre a produtividade e um tempo de descanso.
+
+1 - mente divagando 
+2 - Sobrecarga de informação 
+3 - Interrupções 
+
+**Dicas:** 
+
+- Faça uma lista de tarefas do dia. 
+- Comece pelas tarefas mais difíceis. 
+- Cronometre suas tarefas.
+- Faça uma pausa.
+- Foco é sempre necessário.
+- Faça reuniões rápidas.
+- Celebre suas tarefas concluídas.
+
+**Perceba suas emoçoes:**
+
+Tudo que está ao seu redor é composto de sua percepção de realidade 

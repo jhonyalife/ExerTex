@@ -67,6 +67,7 @@
 * git commit -m "mensagem"
 * git log - Para verificar
 
+
 ## Para arquivos que já estejam modificados:
 
 * -git commit -am "mensagem"
@@ -162,6 +163,7 @@ Através do comando git reset é possível desfazer e navegar entre diferentes c
 
 - Usamos o comando git log -1 
 - git log --graph
+- git log --oneline --all (mostra todos os commits independente da branch )
 - Para obersavamos as modificações utilizamos o comando git log -p -1
 - Para verificarmos a estatistica utilizamos o comando git log -1 --statz
 - Para organizar a visualização utilizamos o comando git log -1 --stat --pretty=oneline
