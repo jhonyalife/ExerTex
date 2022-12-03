@@ -41,9 +41,9 @@ Todos os conteúdos então salvos em Markdown(.md) com as suas devidas nomenclat
 ---
 
 ### Consulta
-[GIT](https://git-scm.com/docs/git/pt_BR)
-[MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
-[Tex](https://texperts.com.br/)
+- [GIT](https://git-scm.com/docs/git/pt_BR)
+- [MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+- [Tex](https://texperts.com.br/)
 
 ### Creditos
 
