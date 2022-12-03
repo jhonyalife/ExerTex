@@ -492,7 +492,7 @@ Visão dos diferentes niveis de gerenciamento e planejamento do projeto
 # Metodologia Ágil - Produtividade
 
 
-###Principais pontos da aula:
+### Principais pontos da aula:
 
 - Uma mente dispersa pode influenciar muito na sua produtividade, pois torna-se difícil de manter o foco.
 - É importante entender a diferença entre colaborar e fazer a tarefa de outra pessoa, para que você não acabe se sobrecarregando.
