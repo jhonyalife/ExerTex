@@ -118,7 +118,7 @@ Habilidade * * * * *
 - Prototipagem (wireframes navegáveis)
 - Entregáveis de UX
 
-### Por fim, teste e usabilidades e Documentação.
+**Por fim, teste e usabilidades e Documentação.**   
 
 ---
 
@@ -166,3 +166,135 @@ Mas o que pode ajudar esse tipo de persona a conhecer mais do sistema?
 - Querem ter a sensação de poder apontar melhorias
 
 ![imagem14](src/img/imagem14.png)
+
+---
+
+# Conceitos de gamificação
+
+**Principais pontos da aula:**
+
+- Ranking Individuais, reforço positivo de pontuação, likes, medalhas, brasões
+- Oferta de versões gratuitas com restrições
+- Desbloqueio de funcionalidades que antes estavam visivelmente bloqueadas
+- Reconhecimento Social
+
+**Engajamento do usuário** 
+
+- Ranking indivual 
+- Reforço positivo de pontuação 
+- Mecanismo de Feedback (Likes e Comentários, Medalhas ou Brasões)
+
+**Recompensas**
+
+- Oferta de versões gratuitas com restrições
+- Desbloquear coisas novas
+- Ter reconhecimento social
+- Ter realização pessoal
+
+**Realização**
+
+- Niveis e metas 
+- Mapeamento de progressão do usuário 
+- Posicionamento na jornada de uso do app
+  
+**Motivação**
+
+- Intrínseca - Criada por valores internos tomando um senso de propósito.
+- Extrínseca - Criada por fatores externos como reconhecimento social.
+
+**Aprendizagem**
+
+- Aviso de senhas curtas
+- Desabilitar botões de proxima etapa
+- Ícones e atalhos
+- Jornada do super usuário (curva de uso)
+
+---
+
+# Técnicas de UX
+
+**Principais pontos da aula:**
+
+- Processo do Design Thinking – Empatia, Definição, Ideação, Prototipação, Teste
+- Card sorting
+- Histórias de usuários
+- Crazy Eights
+
+![imagem16](src/img/imagem16.png)
+
+**Card Sorting**
+
+Cartões ou Post-its, físicos ou virtuais, com nomes e palavras que representam os rótulos das categorias em análise. A ideia é organizar, de forma lógica, os cartões criados dinamicamente. 
+
+Dividir a área onde ficam os post-its, em partes lógicas que representam categórias que o usuário pode acessar. Os participantes escrevem seus post-its livremente, sem julgamento.
+
+![imagem15](src/img/imagem15.png)
+
+---
+
+# O que são entregáveis de UX ?
+
+**Principais pontos da aula:**
+
+- Objetivos de negócios – missão, visão, valores
+- Proposta única de valor
+- Análise de competitividade
+- Personas
+- Análise de conteúdo
+
+1. Objetivos de negócios (missão, visão, valores)
+    Proposta Única de Valor 
+
+**Proposta de valor**
+
+Ser um app____(Objetivo)
+Que ajuda pessoas a____(promessa)
+Por intermedio de ____(como)
+Sem que elas tenham que(dor que o app soluciona)
+
+**Exemplo:**
+
+Ser um app de **cupons/vourchers** que **ajuda pessoas a economizar** por intermédio de um **cadastro simples** sem que elas tenham que **perder tempo procurando descontos em lojas**
+
+2. Análise de Competitividade (Pesquise 3 rivais)
+Avalie qualidades e fraque
+
+3. Personas (Questionamento Estruturados, Psicologia Humanista)
+   Dores e Necessidades
+
+4. Análise de Conteúdo(Card Sorting)
+   Debate em Equipe, Mapeamento de soluções
+
+---
+
+# O que são entregáveis de UX (parte 2)?
+
+**Principais pontos da aula:**
+
+- Conceito
+- Características de um protótipo
+- Benefícios
+- Prática de criação de um Wireframe navegável
+
+5. Prototipagem (Wireframes Navegáveis)
+
+**O que é prototipagem?**
+
+Técnica que demonstra ideias e características do funcionamento de um sistema por meio de elementos gráficos, desenhos ou até rabiscos. 
+
+**A interface que você vai criar deve ser:**
+
+- Intuitiva
+- Simples
+- Agradável
+- Compreensível ao olhar humano
+
+**Benefícios da prototipagem:**
+
+- Avaliar
+- Fazer testes de usabilidade
+- Fazer testes de prova de conceito
+- Obter validação das partes interessadas
+- Complementar a documentação
+
+[Proto.io](https://proto.io/)
