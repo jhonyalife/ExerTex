@@ -128,3 +128,11 @@ Habilidade * * * * *
 
 - Tipos de personas segundo Andrzej Marczewsk: Socializadores, Espíritos Livres, Empreendedores, Filantropos, Jogadores, Disruptores
 - Mapa de Empatia
+
+![imagem12](./src/img/imagem12.png)
+
+### Tipos de Persona
+
+**Socializadores (Relacionamento)**
+- Compartilhamento 
+- Espaço para comentários 
