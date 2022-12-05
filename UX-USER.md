@@ -133,6 +133,36 @@ Habilidade * * * * *
 
 ### Tipos de Persona
 
+
 **Socializadores (Relacionamento)**
 - Compartilhamento 
 - Espaço para comentários 
+
+**Espiritos Livres (Autonomia)**
+- Funcionalidade independente 
+- Ter opção de escolha 
+
+
+**Empreendedores (Maestria)**
+- Buscam estar a par de tudo 
+- Querem ter a sensação de "conhecimento pleno"[
+
+Mas o que pode ajudar esse tipo de persona a conhecer mais do sistema?
+
+- Seções de ajuda 
+- Atalhos e ícones
+
+**Filantropos (Propósito)**
+- Objetivos que ajudam pessoas 
+- Relatórios que justifiquem essa atitude
+
+**Jogadores (Recompensas)**
+- Etapas ou níveis 
+- Títulos, brasões ou Áreas Desbloqueadas  
+
+**Disruptores (Mudanças)**
+
+- Buscam estar em contradição 
+- Querem ter a sensação de poder apontar melhorias
+
+![imagem14](src/img/imagem14.png)
