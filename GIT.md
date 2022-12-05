@@ -1,14 +1,14 @@
-## Benefícios do uso de um sistema de Controle de Versão
+### Benefícios do uso de um sistema de Controle de Versão
 
 - Versionamento
 
-## Problema sobre o desenvolvimento individual
+### Problema sobre o desenvolvimento individual
 
 - falta de capacidade de retornar as versões anteriores.
 - Versão não monitorada
 - Longo periodo em busca de solução
 
-## Problema relacionado a trabalhar com equipe
+### Problema relacionado a trabalhar com equipe
 
 - Conflitos quando mais de um programador está trabalhando no mesmo arquivos
 - 'Bloqueio' do arquivo no desenvolvimento individual
@@ -33,7 +33,7 @@
   
 ---
 
-## Coisas principais a serem lembradas:
+### Coisas principais a serem lembradas:
 
 - Diretório de trabalho (Pasta na sua máquina virtual)
 - Repositorio git
@@ -45,7 +45,7 @@
 
 ---
 
-## Configuração Inicial para usar o git
+### Configuração Inicial para usar o git
 
 ***Informações de sua identidade:***
 
@@ -56,34 +56,34 @@
 
 ---
 
-## Github:
+### Github:
 
 - Repositorio remoto
 
 ---
 
-## Fazer e verificar commit:
+### Fazer e verificar commit:
 
 * git commit -m "mensagem"
 * git log - Para verificar
 
 
-## Para arquivos que já estejam modificados:
+### Para arquivos que já estejam modificados:
 
 * -git commit -am "mensagem"
 
 ---
 
-## Adicionar alterações no arquivo:
+### Adicionar alterações no arquivo:
 
 * git add nomeDoArquivo
 * git add
 
-## Adicionar todos os arquivos na stage:
+### Adicionar todos os arquivos na stage:
 
 * git add .
 
-## Desfazer o add:
+### Desfazer o add:
 
 * git rm --cached "nome-do-arquivo"
 
@@ -91,7 +91,7 @@
 
 ---
 
-## Desfazer e navegar entre diferentes commits:
+### Desfazer e navegar entre diferentes commits:
 
 Através do comando git reset é possível desfazer e navegar entre diferentes commits.
 
@@ -108,14 +108,14 @@ Através do comando git reset é possível desfazer e navegar entre diferentes c
 
 ---
 
-## Para ignorar um arquivo:
+### Para ignorar um arquivo:
 
 - Criar um arquivo chamado ".gitignore"
 - Colocar o nome do arquivo que deseja ser excluido dentro do ".gitignore"
 
 ---
 
-## Para comparar dois commits:
+### Para comparar dois commits:
 
 - O comando git diff é capaz de trazer as diferenças entre o último commit e a versão atual dos arquivos.
 - É possível visualizar as diferenças entre dois commits diferentes ao utilizar suas chaves após o comando git diff.
@@ -124,40 +124,40 @@ Através do comando git reset é possível desfazer e navegar entre diferentes c
 
 ---------------------------------------------------------------------------------------------------------
 
-## Criar um novo galho - branch:
+### Criar um novo galho - branch:
 
 - Através do comando git branch "nome-da-branch" criamos uma nova branch
 
-## Criar um novo galho, mas já entrando nele:
+### Criar um novo galho, mas já entrando nele:
 
 - git checkout -b "nome-da-branch-nova"
 
-## Alterar nome da branch:
+### Alterar nome da branch:
 
 - git branch -m "nome-da-nova-branch"
 
-## Trocar de branch - checkout ou switch:
+### Trocar de branch - checkout ou switch:
 
 - Através do comando git checkout "nome-da-branch"
 - git switch "nome-da-branch"
 
-## Criar e já entrar na branch local 
+### Criar e já entrar na branch local 
 
 - git switch -c "nome-da-branch"
 
-## Deletar branch no remoto:
+### Deletar branch no remoto:
 
 - git push --delete "nome-da-branch"
 
-## Deletar branch local
+### Deletar branch local
 
 - git branch -d "nome-da-branch"
 
-## Conferir branch no remoto
+### Conferir branch no remoto
 
 -git branch -r
 
-## Fazer checkout diretamente no branch remoto:
+### Fazer checkout diretamente no branch remoto:
 
 - git checkout origin/projeto_v2
   
@@ -175,57 +175,72 @@ Através do comando git reset é possível desfazer e navegar entre diferentes c
 
 ---
 
-## Modificar nome do arquivo:
+### Modificar nome do arquivo:
 
 - Para modificamos o nome do arquivo, basta digitar git mv "nome-do-arquvio-antigo" "nome-do-arquivo-novo"
 
 ---
 
-## Remover arquivo:
+### Remover arquivo:
 
 - Para remover arquivo, basta usar git rm "nome-do-arquivo"
 
-## Criar arquivo:
+### Criar arquivo:
 
 - Basta usar o > "nome do arquivo"
 
 ---
 
-## Caso inicialize o git no local errado:
+### Caso inicialize o git no local errado:
 
 - Verifica a pasta oculta .git (comando = ls -la)
 - Deletar a pasta .git (comando= rm -rf .git)
 
 ---
 
-## Conectar o repositorio local com o repositorio remoto - GIT REMOTE:
+### Conectar o repositorio local com o repositorio remoto - GIT REMOTE:
 
 -git remote add origin link-do-github
 
-## Subir as alterações e substituir com os diferentes:
+### Subir as alterações e substituir com os diferentes:
 
 - git push -f origin main
 
-## Subir as alterações já estando na branch remota:
+### Subir as alterações já estando na branch remota:
 
 - git push origin HEAD:'nome-da-branch'
   
 ---
 
-## Mesclar as alterações via CLI
+### Mesclar as alterações via CLI
 
 - Já estando na branch que deseja ser mesclada
     - git merge "nome-da-branch-que-tem-as-alterações"
 
----
-
-## Fork - é uma cópia do repositorio, mas no github
-
-## Clone - é o clone do seu repositorio remoto, mas sendo local
+**Obs: merge em branch compartilhadas**
 
 ---
 
-# Git flow
+### Fazer um novo commit e excluir o antigo
+
+- O comando rebase é utilizado para rebobinar o commit 
+
+
+**Obs: Nunca utilizar em branch compartilhada, apenas em branch que for só sua**
+
+git rebase "nome-da-branch-que-você-quer-copiar"
+
+---
+
+## Fork
+ - é uma cópia do repositorio, mas no github
+
+## Clone 
+- é o clone do seu repositorio remoto, mas sendo local
+
+---
+
+## Git flow
 
 - master(main) : projeto
     - hotfix : correções imediatas, por conta de falhas críticas : temporária versão 1.0.0-1 Tag
@@ -236,5 +251,3 @@ Através do comando git reset é possível desfazer e navegar entre diferentes c
 ***A release vai mesclar apenas a feature***
 
 ---
-
-

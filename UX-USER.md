@@ -10,13 +10,13 @@ Quando aplicado num sistema, gera uma proporção positiva ou negativa.
 
 O termo UX foi utilizado pela primeira vez por Donaid Norman na década de 1990.
 
-**Fato  res e elementos associados a interação do usuário**
+**Sempre referente a elementos associados a interação do usuário**
 
-Resulta numa experiência positiva ou negativa.
+- Resulta numa experiência positiva ou negativa.
 
 **Mas como que sabemos se é algo positivo ou negativo?**
 
-Realizando diversos testes em prototipos.
+- Realizando diversos testes em prototipos.
 
 ![imagem6](src/img/imagem6.png)
 
@@ -119,3 +119,12 @@ Habilidade * * * * *
 - Entregáveis de UX
 
 ### Por fim, teste e usabilidades e Documentação.
+
+---
+
+# Criando personas 
+
+**Principais pontos da aula:**
+
+- Tipos de personas segundo Andrzej Marczewsk: Socializadores, Espíritos Livres, Empreendedores, Filantropos, Jogadores, Disruptores
+- Mapa de Empatia

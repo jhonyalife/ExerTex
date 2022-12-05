@@ -96,7 +96,7 @@ Toma as decisões sobre as características e prioridades do produto.
 
 ---
 
-# Metodologia Ágil - Scrum 
+# Metodologia Ágil - Scrum
 
 Framework para desenvolvimento de softwares. Possui uma estrutura leve, ***iterativa*** e ***incremental*** para desenvolver, entregar e sustentar produtos complexos.
 
@@ -150,7 +150,7 @@ Um processo de desenvolvimento ágil e flexível.
 
 - Sprint
 - Sprint Planning
-- Daily Scrum 
+- Daily Scrum
 - Sprint Review
 - Retrospective
 
@@ -166,14 +166,13 @@ Um processo de desenvolvimento ágil e flexível.
 
     Hipoteses -> Experiẽncia -> Validação -> Aprendizagem 
 
-
 **Qual é a necessidade do cliente?**
 
-- Dores > Problemas a serem resolvidos 
+- Dores > Problemas a serem resolvidos
 
 **Como vamos definir as prioridades?**
 
-**Solução:** Elimina uma determinada DOR sincronizada com as expectativas do cliente. 
+**Solução:** Elimina uma determinada DOR sincronizada com as expectativas do cliente.
   
 ### Sprint Backlog
 
@@ -193,7 +192,7 @@ Que atende a uma necessidade das partes interessadas.
 
 ---
 
-# Metologia Ágil - Sprint Planning 
+# Metologia Ágil - Sprint Planning
 
 Reunião de planejamento de um Sprint (São chamadas de cerimônias e são demoradas)
 - Deve ser mais simples e objetivas 
