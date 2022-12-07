@@ -1,5 +1,7 @@
 # UX USER EXPERIENCE
+
 ---
+
 ## Conceitos sobre UX
 
 **O que é UX?**
@@ -22,40 +24,40 @@ O termo UX foi utilizado pela primeira vez por Donaid Norman na década de 1990.
 
 ### Web
 
-Web 1.0 = Conteúdo 
+Web 1.0 = Conteúdo
 
-Web 2.0 = Interatividade 
+Web 2.0 = Interatividade
 
-Web 3.0 = Semântica 
+Web 3.0 = Semântica
 
-Web 4.0 = Inteligência Artificial 
+Web 4.0 = Inteligência Artificial
 
 ![imagem7](src/img/imagem7.png)
 
 **Qualquer objetivo fisico pode ser um IOT e sempre há uma informação importante que será utilizado**
 
-Donald Norman - 1990 
+Donald Norman - 1990
 Observar e analisar o design
 
 Maximar:
 - Aprendizagem 
-- Eficácia 
+- Eficácia
 - Relacionamento
 
 Minimizar:
 - Dúvida
 - Erro
-- Abandono 
+- Abandono
 - Insatisfação
 - Julgamento
   
 
-## Valores humanos 
+## Valores humanos
 
 **Relacionamento - Sabedoria - Integridade**
 
-Interfaces que representam o usuário 
-Interfaces que ensinam 
+Interfaces que representam o usuário
+Interfaces que ensinam
 Interfaces congruentes
 
 ---
@@ -78,11 +80,11 @@ Todo esse processo acontece para **minimizar AS FALHAS no desenvolvimento**
 
 ![imagem9](src/img/imagem9.png)
 
-### Estimativa de esforço 
+### Estimativa de esforço
 
-- Complexidade 
+- Complexidade
 - Quantidade de etapas
-- Diálogos e Saídas 
+- Diálogos e Saídas
 
 ![imagem10](src/img/imagem10.png)
 
@@ -96,7 +98,7 @@ A Premissa em UX é a proposta das informações necessárias para se chegar a c
 - Obter Feedbacks e melhorar os conceitos de design.
 - Criar um produto adequado a necessidades do usuários.
 - Design com foco especifico do usuário.
-- Testes, hipoteses e simulações direcionados a um design interativo. 
+- Testes, hipoteses e simulações direcionados a um design interativo.
   
 Motivação * * * * *
 Interação * * * * *
@@ -108,7 +110,7 @@ Habilidade * * * * *
 - Definir as restrições básicas.
 - Indexação e catalogação.
 - Mapeamento de páginas e conexões internas
-- Gerenciamento do conteúdo 
+- Gerenciamento do conteúdo
 - Análise de tarefas do sistema
 - Análise da navegação e rotulação
 
@@ -118,11 +120,11 @@ Habilidade * * * * *
 - Prototipagem (wireframes navegáveis)
 - Entregáveis de UX
 
-**Por fim, teste e usabilidades e Documentação.**   
+**Por fim, teste e usabilidades e Documentação.**
 
 ---
 
-# Criando personas 
+# Criando personas
 
 **Principais pontos da aula:**
 
@@ -133,36 +135,39 @@ Habilidade * * * * *
 
 ### Tipos de Persona
 
-
 **Socializadores (Relacionamento)**
-- Compartilhamento 
-- Espaço para comentários 
+
+- Compartilhamento
+- Espaço para comentários
 
 **Espiritos Livres (Autonomia)**
-- Funcionalidade independente 
-- Ter opção de escolha 
 
+- Funcionalidade independente
+- Ter opção de escolha
 
 **Empreendedores (Maestria)**
-- Buscam estar a par de tudo 
+
+- Buscam estar a par de tudo
 - Querem ter a sensação de "conhecimento pleno"[
 
 Mas o que pode ajudar esse tipo de persona a conhecer mais do sistema?
 
-- Seções de ajuda 
+- Seções de ajuda
 - Atalhos e ícones
 
 **Filantropos (Propósito)**
-- Objetivos que ajudam pessoas 
+
+- Objetivos que ajudam pessoas
 - Relatórios que justifiquem essa atitude
 
 **Jogadores (Recompensas)**
+
 - Etapas ou níveis 
 - Títulos, brasões ou Áreas Desbloqueadas  
 
 **Disruptores (Mudanças)**
 
-- Buscam estar em contradição 
+- Buscam estar em contradição
 - Querem ter a sensação de poder apontar melhorias
 
 ![imagem14](src/img/imagem14.png)
@@ -180,8 +185,8 @@ Mas o que pode ajudar esse tipo de persona a conhecer mais do sistema?
 
 **Engajamento do usuário** 
 
-- Ranking indivual 
-- Reforço positivo de pontuação 
+- Ranking indivual
+- Reforço positivo de pontuação
 - Mecanismo de Feedback (Likes e Comentários, Medalhas ou Brasões)
 
 **Recompensas**
@@ -193,8 +198,8 @@ Mas o que pode ajudar esse tipo de persona a conhecer mais do sistema?
 
 **Realização**
 
-- Niveis e metas 
-- Mapeamento de progressão do usuário 
+- Niveis e metas
+- Mapeamento de progressão do usuário
 - Posicionamento na jornada de uso do app
   
 **Motivação**
@@ -232,7 +237,7 @@ Dividir a área onde ficam os post-its, em partes lógicas que representam categ
 
 ---
 
-# O que são entregáveis de UX ?
+# O que são entregáveis de UX?
 
 **Principais pontos da aula:**
 
@@ -243,7 +248,7 @@ Dividir a área onde ficam os post-its, em partes lógicas que representam categ
 - Análise de conteúdo
 
 1. Objetivos de negócios (missão, visão, valores)
-    Proposta Única de Valor 
+    Proposta Única de Valor.
 
 **Proposta de valor**
 
@@ -280,7 +285,7 @@ Avalie qualidades e fraque
 
 **O que é prototipagem?**
 
-Técnica que demonstra ideias e características do funcionamento de um sistema por meio de elementos gráficos, desenhos ou até rabiscos. 
+Técnica que demonstra ideias e características do funcionamento de um sistema por meio de elementos gráficos, desenhos ou até rabiscos.
 
 **A interface que você vai criar deve ser:**
 
@@ -298,3 +303,74 @@ Técnica que demonstra ideias e características do funcionamento de um sistema 
 - Complementar a documentação
 
 [Proto.io](https://proto.io/)
+
+---
+
+# Use Case
+
+Os casos de uso são escritos descrevendo como as pessoas realmente usariam seu sistema ao tentar concluir sua jornada.
+
+Como exemplo disso considere alguém utilizando um App para contratar um serviço de reparo hidráulico em sua residência 
+
+**Composição:**
+
+A pessoa que executa o caso de uso **(Ator)**
+
+O que ocorre a cada passo do ator?
+**(sistema)**
+
+O ator precisa de algo para cumprir, um objetivo **(ação, tarefa)**
+
+**FLuxos Básicos e Alternativos**
+
+- Fluxo básico é o que deve acontecer.
+- Fluxos alternativos são outros eventos que podem acontecer (ou coisas que podem dar errado)
+
+**Caracteristica**
+
+- **Mapear ações** para um objetivo específico
+- **Identificar os problemas** associados ao alcance dessa meta
+- **Determinar como corrigir** esses problemas e quanto tempo é necessário para fazer isso 
+- **Facilitar o caminho** para essa meta para futuros usuários  
+
+![imagem17](./src/img/imagem17.png)
+
+# User Jorney
+
+As viagens dos usuários estão ligadas a personas e pessoas reais. Você deverá criar pelo menos uma jornada para cada uma de suas personagens principais no mínimo.
+
+Deve conter uma série de etapas.
+Cabe a você decidir quantas você precisa.
+
+Série de etapas (entre 4 a 12) que representam um cenário no qual um usuário pode interagir com o que está projetado.
+
+**Objetivo:**
+
+Demonstrar a maneira como os usuários interagem atualmente com o produto (app/sistema)
+
+Demonstrar como aprimorar a interação do usuários.
+
+**Beneficios:**
+
+Demontrar a visão do projeto, ou seja, comunicar o que o produto visa alcançar.
+
+Entender qual poderia ser um estado futuro do que se está projetando.
+
+Juntamente com as personas, ser uma das principais maneiras de coleta de requisitos no inicio de um projeto 
+
+Ajudam a entender o comportamento do usuário, descobrir como ele vai interagir com o seu sistema. 
+
+---
+
+# 5 planos de Jesse James Garret 
+
+**Principais pontos da aula:**
+
+- Estratégia
+- Escopo
+- Estrutura
+- Protótipo
+- Interface
+- Produto: funcional e como informação
+
+![imagem18](src/img/imagem18.png)
