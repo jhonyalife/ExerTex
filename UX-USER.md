@@ -374,3 +374,42 @@ Ajudam a entender o comportamento do usuário, descobrir como ele vai interagir 
 - Produto: funcional e como informação
 
 ![imagem18](src/img/imagem18.png)
+
+---
+
+# Entregáveis de UX
+
+
+**Principais pontos da aula:**
+
+- Objetivos de negócios – missão, visão, valores
+- Proposta única de valor
+- Análise de competitividade
+- Personas
+- Análise de conteúdo
+- Prototipagem
+- Use Case
+- User Jorney
+- Heurísticas de Nielsen
+
+
+**Checklist para um entregável UX** 
+
+1. Objetivos de negócios (missão, visão, valores)
+      Proposta Unica de Valor
+
+2. Analise de Competitividade (pesquise 3 rivais)
+      Avalie qualidade e defeitos 
+
+3. Personas (Questionamento Estruturados, psicologia Humanista)
+      "Dores e Necessidades"
+
+4. Análise de Conteúdo (Card Sorting, Debate em equipe, Mapeamento de soluções)
+
+5. Prototipagem (Wireframes Navegáveis)
+
+6. User Case (Caso de Uso)
+
+7. User Journey (Jornada do usuário)
+
+8. Heuristica de Nielsen(Teste de Usabilidade com base nos protótipos)
