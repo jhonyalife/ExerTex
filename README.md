@@ -6,7 +6,7 @@
 
 ### Sobre o repositorio
 
-Repositório criado com intuido de guardar todos os conhecimentos transmitido pela T.EX, facilitando futuras consultas.
+Repositório criado com intuito de guardar todos os conhecimentos transmitido pela T.EX, facilitando futuras consultas.
 
 ### Por que criei ?
 
